@@ -1,0 +1,105 @@
+.pic {
+    justify-items: center;
+    width: 50%;
+} 
+
+header > h1 {
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    font-size: 90px;
+    font-weight: lighter;
+    line-height: 0.5;
+    color: #000;
+}
+
+blockquote {
+    font-family: 'Arial';
+    font-size: 25px;
+    font-weight: lighter;
+    line-height: 1.0;
+    color: #000; 
+    background-color: #fff; 
+    justify-content: center;  
+}
+
+.container  {
+    width: 100%;
+    height: auto;
+    border: 1px solid;
+    color: rgb(eee);
+    background-color: #a8dadc;
+}
+h2 {
+    font-family: 'Arial';
+    font-size: 35px;
+    font-weight: lighter;
+    font-style: italic;
+    line-height: 1.8;
+    color: #000;  
+    text-align: center;
+    padding: 1%;
+    text-decoration-line: underline;
+} 
+div ul {
+    display: flex;
+    flex-direction: row;
+    background-color:#ffcdb2;
+    font-family: 'Arial';
+    font-size: 30px;
+    font-weight: lighter;
+    line-height: 1.8;
+    color: #000;  
+
+}
+div li {
+    flex: auto;
+    font-family: 'Arial';
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: lighter;
+    line-height: 1.8;
+    color: #000;  
+}
+
+about-me h3 {
+    font-family: 'Arial';
+    font-size: 50px;
+    text: underline;
+    font-weight: bolder;
+
+}
+
+h3 {
+    font-family: 'Arial';
+    font-size: 25px;
+    font-weight: lighter;
+    line-height: 1.8;
+    color: #000;
+}
+p {
+    font-family: 'Arial';
+    font-size: 22px;
+    padding: 1px;
+    line-height: 1.25;
+    margin: 0 0 0 0;
+    color: #404044;
+
+}
+h5 {
+    font-family: 'Arial';
+    font-size: 27px;
+    font-weight: lighter;
+    padding: .10px;
+    line-height: .25;
+    margin: 1 0 1 0;
+    font-style: italic;
+
+}
+footer > h1 {
+    font-family: 'Arial';
+    text-align; center;
+    font-size: 90px;
+    font-weight: lighter;
+    line-height: 0.5;
+    color: #000;
+}
